@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DigitalSimba
-- 👀 I’m interested in ... Web Development
-- 🌱 I’m currently learning ... JS, Python & Kotlin
-- 💞️ I’m looking to collaborate on ... AgriTech (Irrigation/Weather/Ecosystem Control) and EduTech.
+- 👀 I’m interested in ... Web Development (Html/CSS/JS/PHP), Python Development & VBA Development
+- 🌱 I’m currently learning ... Django, Data Science
+- 💞️ I’m looking to collaborate on ... AgriTech (Irrigation/Weather/Ecosystem Control) and EduTech using Django Framework.
 - 📫 How to reach me ... DM
 
 <!---
